@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://zzbwond.gihub.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2019 11:54:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://zzbwond.gihub.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spring框架</title>
+      <link>https://zzbwond.gihub.io/post/blog/</link>
+      <pubDate>Wed, 05 Jun 2019 11:54:31 +0800</pubDate>
+      
+      <guid>https://zzbwond.gihub.io/post/blog/</guid>
+      <description>Spring框架—控制反转（IOC） 1 Spring框架概述 1.1 什么是Spring
+Spring是一个开源框架，Spring是于2003 年兴起的一个轻量级的Java 开发框架，由Rod Johnson 在其著作Expert One-On-One J2EE Development and Design中阐述的部分理念和原型衍生而来。它是为了解决企业应用开发的复杂性而创建的。框架的主要优势之一就是其分层架构，分层架构允许使用者选择使用哪一个组件，同时为 J2EE 应用程序开发提供集成的框架。Spring使用基本的JavaBean来完成以前只可能由EJB完成的事情。然而，Spring的用途不仅限于服务器端的开发。从简单性、可测试性和松耦合的角度而言，任何Java应用都可以从Spring中受益。Spring的核心是控制反转（IoC）和面向切面（AOP）。简单来说，Spring是一个分层的JavaSE/EE full-stack(一站式) 轻量级开源框架。
+1.2 Spring的优点 方便解耦，简化开发 （高内聚低耦合） Spring就是一个大工厂（容器），可以将所有对象创建和依赖关系维护，交给Spring管理 spring工厂是用于生成bean AOP编程的支持 Spring提供面向切面编程，可以方便的实现对程序进行权限拦截、运行监控等功能 声明式事务的支持 只需要通过配置就可以完成对事务的管理，而无需手动编程 方便程序的测试 Spring对Junit4支持，可以通过注解方便的测试Spring程序 方便集成各种优秀框架 Spring不排斥各种优秀的开源框架，其内部提供了对各种优秀框架（如：Struts、Hibernate、MyBatis、Quartz等）的直接支持 降低JavaEE API的使用难度 Spring 对JavaEE开发中非常难用的一些API（JDBC、JavaMail、远程调用等），都提供了封装，使这些API应用难度大大降低
+1.3 Spring的体系结构
+作者：huang-yang 来源：CSDN 原文：https://blog.csdn.net/qq_22583741/article/details/79589910</description>
+    </item>
+    
+  </channel>
+</rss>
